@@ -36,6 +36,5 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
 </a>
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kosilive)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kosisochukwu-nnadozie-683b01235//)  
 
