@@ -1,4 +1,4 @@
-his project explores population changes in Nigerian states between 2016 and 2019. Using Power BI, I created clear visualizations to make the data accessible to both analysts and the general public.
+This project explores population changes in Nigerian states between 2016 and 2019. Using Power BI, I created clear visualizations to make the data accessible to both analysts and the general public.
 
 𝐇𝐞𝐫𝐞'𝐬 𝐚 𝐠𝐥𝐢𝐦𝐩𝐬𝐞 𝐢𝐧𝐭𝐨 𝐰𝐡𝐚𝐭 𝐈 𝐟𝐨𝐮𝐧𝐝:
 
