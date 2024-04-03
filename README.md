@@ -30,10 +30,10 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
     <img src="https://i.postimg.cc/Hs9nY1P1/Supreme-Market-Sales-Report-2.png" width="200" height="150">
 </a>
 
-#####
 <a href="https://github.com/Kosilive/Kosisochukwu-Nnadozie.github.io/blob/main/Super%20Market%20Sales%202023.txt">
     <img src="https://i.postimg.cc/NMMZZm9z/Super-Market-2023.png" width="200" height="150">
 </a>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kosilive)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kosisochukwu-nnadozie-683b01235//)  
