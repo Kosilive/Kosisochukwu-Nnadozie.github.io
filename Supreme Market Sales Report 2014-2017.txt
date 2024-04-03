@@ -1,0 +1,13 @@
+𝐒𝐮𝐩𝐫𝐞𝐦𝐞 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚𝐥𝐞𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 (2014-2017)
+
+𝐓𝐡𝐢𝐬 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 analyzes sales data from Supreme Supermarket between 2014 and 2017. It utilizes various metrics like sales, total profit, products, average sales, total cost, quantity ordered, sales managers, and region. These metrics are essential for optimizing store operations and maximizing profitability.
+
+By analyzing the dataset, I was able to extract valuable insights into Supreme Supermarket's operations. 
+-𝑴𝒐𝒏𝒕𝒉𝒍𝒚 𝒐𝒓𝒅𝒆𝒓𝒔 𝒕𝒓𝒆𝒏𝒅
+-𝑻𝒐𝒑 𝒄𝒖𝒔𝒕𝒐𝒎𝒆𝒓 𝒃𝒚 𝒑𝒓𝒐𝒇𝒊𝒕
+-𝑺𝒂𝒍𝒆𝒔 𝒃𝒚 𝒔𝒆𝒈𝒎𝒆𝒏𝒕 
+-𝑹𝒆𝒈𝒊𝒐𝒏 𝒃𝒚 𝒔𝒂𝒍𝒆𝒔
+-𝑸𝒖𝒂𝒏𝒕𝒊𝒕𝒚 𝒃𝒚 𝒔𝒆𝒈𝒎𝒆𝒏𝒕 
+-𝑺𝒉𝒊𝒑 𝒎𝒐𝒅𝒆 𝒃𝒚 𝒒𝒖𝒂𝒏𝒕𝒊𝒕𝒚 
+-𝑺𝒂𝒍𝒆𝒔 𝒃𝒚 𝒄𝒐𝒖𝒏𝒕𝒓𝒚 
+These insights are presented using clear and relatable charts, enabling stakeholders to easily understand the valuable information within their data

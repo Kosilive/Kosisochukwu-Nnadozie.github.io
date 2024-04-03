@@ -1,0 +1,12 @@
+his project explores population changes in Nigerian states between 2016 and 2019. Using Power BI, I created clear visualizations to make the data accessible to both analysts and the general public.
+
+𝐇𝐞𝐫𝐞'𝐬 𝐚 𝐠𝐥𝐢𝐦𝐩𝐬𝐞 𝐢𝐧𝐭𝐨 𝐰𝐡𝐚𝐭 𝐈 𝐟𝐨𝐮𝐧𝐝:
+
+𝑶𝒗𝒆𝒓𝒂𝒍𝒍 𝒑𝒐𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒄𝒉𝒂𝒏𝒈𝒆: compared the total population in 2016 to 2019, revealing the overall population growth for Nigeria.
+𝑺𝒉𝒊𝒇𝒕𝒊𝒏𝒈 𝒍𝒂𝒏𝒅𝒔𝒄𝒂𝒑𝒆: I identified the top 5 most populous states in both 2016 and 2019, allowing us to see which states maintained their position and which ones experienced significant changes.
+𝑮𝒓𝒐𝒘𝒕𝒉 𝒕𝒓𝒆𝒏𝒅𝒔: I calculated the growth margin for each state, providing insights into the varying population growth rates across different regions.
+𝑳𝒆𝒂𝒔𝒕 𝒑𝒐𝒑𝒖𝒍𝒂𝒕𝒆𝒅 𝒔𝒕𝒂𝒕𝒆𝒔: I compared the least populated states in 2016 and 2019, highlighting any shifts in population distribution.
+
+𝑻𝒉𝒆𝒔𝒆 𝒗𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏𝒔 𝒂𝒍𝒍𝒐𝒘 𝒖𝒔 𝒕𝒐 𝒆𝒂𝒔𝒊𝒍𝒚 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅:
+1. Population trends within our country.
+2. How our state compares to others in terms of population size and growth
