@@ -38,6 +38,9 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
     <img src="https://i.postimg.cc/zfBpgV8z/Road-Accident-Analysis.jpg" width="200" height="150">
 </a>
 
+<a href="https://i.postimg.cc/tgDX3fzb/Kay-beauty-hair.png">
+    <img src="https://i.postimg.cc/tgDX3fzb/Kay-beauty-hair.png" width="200" height="150">
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kosilive)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kosisochukwu-nnadozie-683b01235//)  
