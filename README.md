@@ -38,7 +38,7 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
     <img src="https://i.postimg.cc/zfBpgV8z/Road-Accident-Analysis.jpg" width="200" height="150">
 </a>
 
-<a href="https://i.postimg.cc/tgDX3fzb/Kay-beauty-hair.png" <p>Thank U for Watching</p>>
+<a href="https://i.postimg.cc/tgDX3fzb/Kay-beauty-hair.png" a href="https://github.com/Kosilive/Kosisochukwu-Nnadozie.github.io/blob/main/Super%20Market%20Sales%202023.txt">
     <img src="https://i.postimg.cc/tgDX3fzb/Kay-beauty-hair.png" width="200" height="150">
 
 
