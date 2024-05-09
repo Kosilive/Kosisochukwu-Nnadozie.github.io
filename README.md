@@ -22,7 +22,6 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
     <img src="https://i.postimg.cc/qM0WdP3K/Nigerian-State-by-Population.png" width="200" height="150">
 </a>
 
-<a href="https://ibb.co/hMM2jV1"><img src="https://i.ibb.co/hMM2jV1/Nigerian-Population-2016-2019.png" alt="Nigerian-Population-2016-2019" border="0" /></a>
 
 <a href="https://github.com/Kosilive/Kosisochukwu-Nnadozie.github.io/blob/main/Supreme%20Market%20Sales%20Report%202014-2017.txt">
     <img src="https://i.postimg.cc/cL1H6kVg/Supreme-Market-Sales-Report-1.png" width="200" height="150">
