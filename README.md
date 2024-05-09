@@ -18,7 +18,7 @@ Experienced Data Analyst with a robust background in leveraging advanced analyti
 - 📫 How to reach me: +2348147577071
 
 ## Projects
-<a href="https://github.com/Kosilive/Kosisochukwu-Nnadozie.github.io/blob/main/Nigeria%20State%20by%20Population.txt">
+<a href="https://i.postimg.cc/qM0WdP3K/Nigerian-State-by-Population.png">
     <img src="https://i.postimg.cc/qM0WdP3K/Nigerian-State-by-Population.png" width="200" height="150">
 </a>
 
